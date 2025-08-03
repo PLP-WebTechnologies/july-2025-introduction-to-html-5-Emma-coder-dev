@@ -105,10 +105,3 @@ The page includes links to additional resources:
 - ✅ No unnecessary `<div>` or `<span>` elements
 - ✅ Clean, readable HTML code structure
 
-## 👨‍💻 Author
-
-Created as part of the PLP Web Technologies course assignment focusing on modern HTML5 standards, accessibility, and SEO fundamentals.
-
----
-
-*This project serves as an educational resource about modern web development while demonstrating the very principles it teaches.* 
